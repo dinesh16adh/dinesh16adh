@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dinesh Adhikari and I'm a Computer Science Student, from Kathmandu</h2>
+<h2 align="left">Hi 👋! My name is Dinesh Adhikari and I'm a Computer Science Student, from Nepal</h2>
 
 ###
 
