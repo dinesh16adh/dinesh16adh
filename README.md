@@ -83,3 +83,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh16adh&" alt="dinesh16adh" />
 </p>
+
+---
+
+### Fun GIFs 🎉
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Xz9Dh4DmjXtM3n9rD7/giphy.gif" alt="fun-gif" width="400" />
+</p>
