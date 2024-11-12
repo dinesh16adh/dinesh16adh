@@ -98,20 +98,20 @@
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
   </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
 ### GitHub Stats:
 
-- **Top Languages:**
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dinesh16adh&show_icons=true&locale=en&layout=compact)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dinesh16adh&show_icons=true&locale=en&layout=compact)
 
-- **Stats:**
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinesh16adh&show_icons=true&locale=en)
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinesh16adh&show_icons=true&locale=en)
 
-- **Streak:**
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinesh16adh&)
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinesh16adh&)
 
 ---
 
