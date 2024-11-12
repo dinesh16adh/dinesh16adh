@@ -55,4 +55,8 @@
 
 ---
 
-Thanks for visiting my profile! Let's learn and grow together 🚀
+
+
+<p align="center">
+  <img src="[https://media.giphy.com/media/Xz9Dh4DmjXtM3n9rD7/giphy.gif](https://media3.giphy.com/media/Eu7nmMMKYT4aZeQJcT/giphy.gif)" alt="fun-gif" width="400" />
+</p>
