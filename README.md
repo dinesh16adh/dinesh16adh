@@ -30,12 +30,12 @@
   - <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> React
   - <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> Bootstrap
   - <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> Node.js
-  - <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a> Django
+  - <a href="https://www.djangoproject.com/" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg](https://th.bing.com/th/id/OIP.e6_fw-AVgzPZiUzNcGo2fwHaFj?rs=1&pid=ImgDetMain)" alt="django" width="40" height="40"/></a> Django
 
 - **Data Science Tools**:
   - <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> Pandas
   - <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a> NumPy
-  - <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/></a> scikit-learn
+  - <a href="https://scikit-learn.org/" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg](https://th.bing.com/th/id/OIP.Y1v40c2VuuMzkIDmmi50WwHaE7?rs=1&pid=ImgDetMain)" alt="scikit-learn" width="40" height="40"/></a> scikit-learn
 
 - **Tools**:
   - <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> Docker
@@ -55,8 +55,6 @@
 
 ---
 
-
-
 <p align="center">
-  <img src="[https://media.giphy.com/media/Xz9Dh4DmjXtM3n9rD7/giphy.gif](https://media3.giphy.com/media/Eu7nmMMKYT4aZeQJcT/giphy.gif)" alt="fun-gif" width="400" />
+  <img src="https://media.giphy.com/media/Xz9Dh4DmjXtM3n9rD7/giphy.gif" alt="fun-gif" width="400" />
 </p>
