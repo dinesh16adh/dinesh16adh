@@ -44,13 +44,10 @@
 
 ### GitHub Stats:
 
- Top Languages:  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dinesh16adh&show_icons=true&locale=en&layout=compact)
-
- Stats:  
+ 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinesh16adh&show_icons=true&locale=en)
 
-  Streak:  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinesh16adh&)
 
 ---
@@ -60,14 +57,19 @@
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=dinesh16adh&theme=onedark&column=7" alt="GitHub Trophies" />
 </p>
+
 ---
+
 ### ✍️ Random Dev Quote
 
 <p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
+
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/Xz9Dh4DmjXtM3n9rD7/giphy.gif" alt="fun-gif" width="400" />
 </p>
+
+---
