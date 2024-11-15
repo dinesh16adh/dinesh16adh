@@ -55,6 +55,13 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dinesh16adh&theme=onedark&column=7" alt="GitHub Trophies" />
+</p>
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/Xz9Dh4DmjXtM3n9rD7/giphy.gif" alt="fun-gif" width="400" />
 </p>
