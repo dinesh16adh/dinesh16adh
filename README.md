@@ -6,6 +6,8 @@
 
 - 📫 How to reach me: **dinesh683adhikari@gmail.com**
 - ⚡ Fun fact: **I love to interact with people and share knowledge.**
+![Profile Views](https://komarev.com/ghpvc/?username=dinesh16adh&color=blue)
+
 
 ---
 
