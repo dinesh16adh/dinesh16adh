@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **dinesh683adhikari@gmail.com**
 - ⚡ Fun fact: **I love to interact with people and share knowledge.**
-![Profile Views](https://komarev.com/ghpvc/?username=dinesh16adh&color=blue)
+-  ![Profile Views](https://komarev.com/ghpvc/?username=dinesh16adh&color=blue)
 
 
 ---
@@ -22,22 +22,22 @@
 
 - **Languages**:
   - <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> HTML5
-  - <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> CSS3
-  - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> JavaScript
-  - <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> Python
-  - <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> C
-  - <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a> Dart
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> CSS3
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> JavaScript
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> Python
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> C
+  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a> Dart
 
 - **Frameworks & Libraries**:
   - <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> React
-  - <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> Bootstrap
-  - <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> Node.js
-  - <a href="https://www.djangoproject.com/" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg](https://th.bing.com/th/id/OIP.e6_fw-AVgzPZiUzNcGo2fwHaFj?rs=1&pid=ImgDetMain)" alt="django" width="40" height="40"/></a> Django
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> Bootstrap
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> Node.js
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg](https://th.bing.com/th/id/OIP.e6_fw-AVgzPZiUzNcGo2fwHaFj?rs=1&pid=ImgDetMain)" alt="django" width="40" height="40"/></a> Django
 
 - **Data Science Tools**:
   - <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> Pandas
-  - <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a> NumPy
-  - <a href="https://scikit-learn.org/" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg](https://th.bing.com/th/id/OIP.Y1v40c2VuuMzkIDmmi50WwHaE7?rs=1&pid=ImgDetMain)" alt="scikit-learn" width="40" height="40"/></a> scikit-learn
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a> NumPy
+  <a href="https://scikit-learn.org/" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg](https://th.bing.com/th/id/OIP.Y1v40c2VuuMzkIDmmi50WwHaE7?rs=1&pid=ImgDetMain)" alt="scikit-learn" width="40" height="40"/></a> scikit-learn
 
 - **Tools**:
   - <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> Docker
@@ -48,9 +48,9 @@
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dinesh16adh&show_icons=true&locale=en&layout=compact)
  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinesh16adh&show_icons=true&locale=en)
+  [GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinesh16adh&show_icons=true&locale=en)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinesh16adh&)
+  [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinesh16adh&)
 
 ---
 
