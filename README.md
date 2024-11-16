@@ -47,12 +47,12 @@
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=Rajibsigdel12345&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajibsigdel12345&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
+![](https://github-readme-stats.vercel.app/api?username=dinesh16adh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh16adh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajibsigdel12345&theme=dark&hide_border=false)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"  width = 47% src="https://github-readme-stats.vercel.app/api/wakatime?username=Rajib_sigdel&theme=transparent" alt="Wakka Time stats"/>
+  <img align="center"  width = 47% src="https://github-readme-stats.vercel.app/api/wakatime?username=dinesh16adh&theme=transparent" alt="Wakka Time stats"/>
 </a>
 
 ---
