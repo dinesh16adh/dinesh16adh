@@ -52,7 +52,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dinesh16adh&theme=dark&hide_border=false)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"  width = 47% src="https://github-readme-stats.vercel.app/api/wakatime?username=dinesh16adh&theme=transparent" alt="Wakka Time stats"/>
+  <img align="center"  width = 47% src="https://github-readme-stats.vercel.app/api/wakatime?username=WAKATIME_API_KEY&theme=transparent" alt="Wakka Time stats"/>
 </a>
 
 ---
