@@ -1,0 +1,77 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Runs every Sunday at midnight
+  workflow_dispatch: # Allows manual workflow trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Install WakaTime Readme Stats
+        run: |
+          pip install requests pyyaml
+
+      - name: Update WakaTime Section in README
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          python3 <<EOF
+          import os
+          import requests
+          from datetime import datetime
+
+          API_KEY = os.getenv("WAKATIME_API_KEY")
+          URL = "https://wakatime.com/api/v1/users/current/stats/last_7_days"
+
+          headers = {
+              "Authorization": f"Bearer {API_KEY}"
+          }
+
+          response = requests.get(URL, headers=headers)
+          data = response.json()
+
+          if response.status_code != 200:
+              raise Exception(f"Error fetching WakaTime data: {data.get('error')}")
+
+          # Extract summary stats
+          summary = data.get("data", {})
+          languages = summary.get("languages", [])
+          output = "### 📊 WakaTime Stats (Last 7 Days)\n\n"
+
+          for lang in languages[:5]:  # Top 5 languages
+              output += f"- **{lang['name']}**: {lang['text']} ({lang['percent']}%)\n"
+
+          # Read the README file
+          with open("README.md", "r") as f:
+              content = f.read()
+
+          # Replace the WakaTime section
+          start_tag = "<!--START_SECTION:waka-->"
+          end_tag = "<!--END_SECTION:waka-->"
+          start = content.find(start_tag) + len(start_tag)
+          end = content.find(end_tag)
+
+          new_content = content[:start] + "\n" + output + "\n" + content[end:]
+
+          # Write updated content back to the README
+          with open("README.md", "w") as f:
+              f.write(new_content)
+          EOF
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update WakaTime stats"
+          git push
