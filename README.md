@@ -58,20 +58,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dinesh16adh&theme=onedark&column=7" alt="GitHub Trophies" />
 </p>
 
+---
+
 ### ✍️ Random Dev Quote
 
 <p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
-
----
-
-### 📈 Top Contributed Repositories
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=dinesh16adh&repo=repo1&theme=dark)](https://github.com/dinesh16adh/repo1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=dinesh16adh&repo=repo2&theme=dark)](https://github.com/dinesh16adh/repo2)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=dinesh16adh&repo=repo3&theme=dark)](https://github.com/dinesh16adh/repo3)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=dinesh16adh&repo=repo4&theme=dark)](https://github.com/dinesh16adh/repo4)
 
 ---
 
